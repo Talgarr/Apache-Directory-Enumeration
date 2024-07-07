@@ -2,7 +2,7 @@
 
 This python script allow enumeration of Apache "Index Of" pages, such as:
 
-![Index of page](index_of.png)
+![Index of page](assets/index_of.png)
 
 ## Use
 
